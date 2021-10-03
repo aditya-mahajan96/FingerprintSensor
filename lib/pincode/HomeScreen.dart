@@ -42,7 +42,7 @@ class _HomeScreenState extends State<HomeScreen> {
             crossAxisAlignment: CrossAxisAlignment.center,
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              Text("Code by Aditya Mahajan",textAlign: TextAlign.center,),
+              Text("Code by Aditya Mahajan ",textAlign: TextAlign.center,),
               SizedBox(
                 height: 20,
               ),
