@@ -59,7 +59,7 @@ class _SplashScreen1State extends State<SplashScreen1> {
             ),
           ),
           child: Center(
-            child:  Text("Code by Aditya Mahajan \n Github - https://github.com/aditya-mahajan96",textAlign: TextAlign.center,),
+            child:  Text("Code by Aditya Mahajan",textAlign: TextAlign.center,),
           )),
     );
   }
