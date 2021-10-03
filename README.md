@@ -1,16 +1,12 @@
-# backups
+# Project by Aditya Mahajan
 
-A new Flutter project on Fingerprint Sensor
+Flutter project on Fingerprint Sensor  and local pin feature
 
-## Getting Started
+## UI Screens
 
-This project is a starting point for a Flutter application.
+![Home -change:removepin](https://user-images.githubusercontent.com/84502466/135751754-4453dd54-2acc-4cc1-96fa-03167301879c.jpeg)
+![SetUpPin](https://user-images.githubusercontent.com/84502466/135751761-2d24ecb5-6d01-4a90-a33b-13e8ea316087.jpeg)
+![PinVerify](https://user-images.githubusercontent.com/84502466/135751763-30953bc4-0d4f-4dd4-86c8-c5886f6e1638.jpeg)
+![Fingerprint-FaceId](https://user-images.githubusercontent.com/84502466/135751767-09d70bcb-6865-4cde-a740-92678302ef6a.jpeg)
+![Home-setpin](https://user-images.githubusercontent.com/84502466/135751772-3f7afeb1-7fc6-4c25-9082-f1141f9bc763.jpeg)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
